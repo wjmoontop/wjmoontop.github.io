@@ -1,4 +1,5 @@
-
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com,3284022788306553,direct
 applovin.com, 3f8304f3e4d51061361e971d3cad8841, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
